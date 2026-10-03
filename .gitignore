@@ -1,3 +1,11 @@
-build/
-*.log
+.venv/
+__pycache__/
+*.pyc
 .env
+*.log
+app.log
+ringkasan-log.txt
+
+# Tambahan dari latihan Minggu 3
+build/
+log-percobaan.txt
